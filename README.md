@@ -13,5 +13,4 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # A2-Developers
 
-This is a full-stack MERN project built by Tilak Raj Panchal.
-7d41dd0025af2a18cad517256fcb9e9fb6f507dd
+This Repo contains the frontend code of the landing page of a2developers.org
